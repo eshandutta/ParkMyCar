@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#afb3b4"
+    tools:context=".Slots">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#3243a3"
+            android:text="BOOKING SLOTS"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#f4f4f6"
+            android:textSize="40dp" />
+        <Button
+            android:id="@+id/tvSlot1"
+            android:text="SLOT1"
+            android:textSize="25dp"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            android:layout_marginTop="40dp"/>
+        <Button
+            android:id="@+id/tvSlot2"
+            android:text="Slot2"
+            android:textSize="25dp"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            android:layout_marginTop="40dp"/>
+
+        <Button
+                android:id="@+id/tvSlot3"
+                android:text="SLOT3"
+                android:textSize="25dp"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+                android:layout_marginTop="40dp"/>
+            <Button
+                android:id="@+id/tvSlot4"
+                android:text="Slot4"
+                android:textSize="25dp"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+                android:layout_marginTop="40dp"/>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "63392896183",
+    "firebase_url": "https://pratik-f5f8a.firebaseio.com",
+    "project_id": "pratik-f5f8a",
+    "storage_bucket": "pratik-f5f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63392896183:android:cbcbc0e32026049a",
+        "android_client_info": {
+          "package_name": "com.example.a17thjantest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63392896183-pno1i1knlpbck287tfcu6dgbin007mou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a17thjantest2",
+            "certificate_hash": "c3cbda6e6992a11cd8332c7e332ae78de0429316"
+          }
+        },
+        {
+          "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUJX374IKW0YjZGpORBJyQ-AUGLcqvxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63392896183:android:f447f92505c59238",
+        "android_client_info": {
+          "package_name": "com.example.parkmycar3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63392896183-7m9rjgajegeaqgpl68vhihceicqngv1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkmycar3",
+            "certificate_hash": "c3cbda6e6992a11cd8332c7e332ae78de0429316"
+          }
+        },
+        {
+          "client_id": "63392896183-1fp9gd9aa3ufheroilas9bk55hqojlqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkmycar3",
+            "certificate_hash": "7582a90c3468f12e9e47b6bae66f11b63e8f3bf3"
+          }
+        },
+        {
+          "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUJX374IKW0YjZGpORBJyQ-AUGLcqvxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63392896183:android:2ab3416ee0cf6def",
+        "android_client_info": {
+          "package_name": "com.example.test17thjan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63392896183-ga3fp9v95ekfiqsl5er6pdllhf89pt52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test17thjan",
+            "certificate_hash": "c3cbda6e6992a11cd8332c7e332ae78de0429316"
+          }
+        },
+        {
+          "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUJX374IKW0YjZGpORBJyQ-AUGLcqvxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63392896183-a0tqudl11284p0jmar4575qbm881qnuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

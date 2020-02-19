@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParkMyCar3</string>
+    <string name="title_activity_register">Register</string>
+    <string name="Ecity_Desc">Located in the heart of electronic city. All major offices like Wipro, Infosys are just 10-15 mins walk away.</string>
+    <string name="WhiteField_Desc">Whitefield needs no introduction. This area in Bangalore has the maximum traffic congestion. Located very next to Pheonix Mall which is a convinient destination for every Banglorean.</string>
+    <string name="Brookefield_Desc">Brookefield is closer to Whitefield. Traffic congestion is no less here. Hope Farm Mall is the hub of this locality.</string>
+    <string name="Koramangala_Desc">Kormangala is a popular destination for every foodie. We get every exotic dishes here. Also, Kormangala is filled with lots of startup company offices.</string>
+</resources>
